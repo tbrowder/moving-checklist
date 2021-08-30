@@ -2,6 +2,7 @@ Checklist for move from BWB to Fairpointe Condos
 
 - [x] schedule change of address with USPS
 - [ ] start renter's insurance
+- [ ] clear out old telephone messages
 - [ ] order Cox box
 - [ ] close Bluewater safe deposit box
 - [ ] move items to GBZ safe deposit box
@@ -14,6 +15,9 @@ Checklist for move from BWB to Fairpointe Condos
 - [ ] move items to new storage unit
 - [ ] move items from attic to garage
 
+After closing
+
+- [ ] change vehicle and driver registration to Santa Rosa Cty
 
 
 
