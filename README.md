@@ -1,8 +1,21 @@
 Checklist for move from BWB to Fairpointe Condos
 
-- [ ] schedule change ofaddress with USPS
-- [ ] startt renter's insurance
-
+- [x] schedule change of address with USPS
+      - date
+- [ ] start renter's insurance
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- 
 
 
 
