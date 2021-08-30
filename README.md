@@ -13,7 +13,6 @@ Checklist for move from BWB to Fairpointe Condos
 - [ ] close out old storage unit
 - [ ] move items to new storage unit
 - [ ] move items from attic to garage
-- 
 
 
 
