@@ -17,6 +17,7 @@
 
 ## After closing (6 Oct)
 
+- [ ] find doc requirements for changing vehicle and driver registration 
 - [ ] change vehicle and driver registration to Santa Rosa Cty
 
 
