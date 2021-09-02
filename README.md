@@ -9,8 +9,8 @@
 - [ ] close out electricity
 - [ ] close out gas
 - [ ] close out water
-- [ ] close out ADT
-- [ ] close out HVAC One Hour, etc.
+- [x] close out ADT
+- [x] close out HVAC One Hour, etc.
 - [ ] rent new storage unit
 - [ ] close out old storage unit
 - [ ] move items to new storage unit
@@ -21,5 +21,7 @@
 - [ ] find doc requirements for changing vehicle and driver registration 
 - [ ] change vehicle and driver registration to Santa Rosa Cty
 
+## Notes
 
+2021-09-02T1440CDT - ADT guy (Derek) said don't be shocked by the bill, they will work with me.
 
