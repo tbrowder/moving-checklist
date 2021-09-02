@@ -10,6 +10,7 @@
 - [ ] close out gas
 - [ ] close out water
 - [ ] close out ADT
+- [ ] close out HVAC One Hour, etc.
 - [ ] rent new storage unit
 - [ ] close out old storage unit
 - [ ] move items to new storage unit
