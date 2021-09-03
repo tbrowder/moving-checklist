@@ -15,6 +15,7 @@
 - [ ] close out old storage unit
 - [ ] move items to new storage unit
 - [ ] move items from attic to garage
+- [ ] schedule stuff for Goodwill
 
 ## After closing (6 Oct)
 
@@ -24,4 +25,4 @@
 ## Notes
 
 2021-09-02T1440CDT - ADT guy (Derek) said don't be shocked by the bill, they will work with me.
-
+                     Check getting a "blue" box for the apartment.
