@@ -5,6 +5,7 @@
 - [ ] clear out old telephone messages
 - [ ] close Bluewater safe deposit box
 - [ ] move items to GBZ safe deposit box
+- [ ] close out gym
 - [ ] close out electricity
 - [ ] close out gas
 - [ ] close out water
@@ -31,6 +32,8 @@
 - [ ] WITHIN 10 days: turn in Cox equipment to Niceville UPS store
 - [ ] change vehicle and driver registration to Santa Rosa Cty
 - [ ] change address with credit cards, banks, USAA, etc.
+- [ ] join new gym
+- [ ] join GBUMC
 
 
 ## Notes
