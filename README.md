@@ -12,13 +12,13 @@
 - [ ] rent new storage unit
 - [ ] move items to new storage unit
 - [ ] close out old storage unit
-- [ ] move items from attic to garage
 - [ ] schedule stuff for Goodwill??
 - [ ] finish furniture and other lists
-- [ ] find doc requirements for changing vehicle and driver registration 
 
 ### Completed
 
+- [x] move items from attic to garage
+- [x] find doc requirements for changing vehicle and driver registration 
 - [x] start USAA renter's insurance (quote started but it's not satisfactory)
       completed 2021-09-03 by telecon with Michelle
 - [x] close out ADT
