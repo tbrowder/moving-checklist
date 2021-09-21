@@ -9,7 +9,7 @@
 - [ ] close out electricity
 - [ ] close out gas
 - [ ] close out water
-- [ ] rent new storage unit
+- [ ] close out NWF Daily News
 - [ ] move items to new storage unit
 - [ ] close out old storage unit
 - [ ] schedule stuff for Goodwill??
@@ -17,6 +17,7 @@
 
 ### Completed
 
+- [x] rent new storage unit
 - [x] move items from attic to garage
 - [x] find doc requirements for changing vehicle and driver registration 
 - [x] start USAA renter's insurance (quote started but it's not satisfactory)
