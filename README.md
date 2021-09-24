@@ -5,15 +5,18 @@
 - [ ] clear out old telephone messages
 - [ ] close Bluewater safe deposit box
 - [ ] move items to GBZ safe deposit box
-- [ ] close out gym
+- [ ] move items to new storage unit
+- [ ] finish furniture and other lists
+
+# on 27 Sep:
 - [ ] close out electricity
 - [ ] close out gas
 - [ ] close out water
 - [ ] close out NWF Daily News
-- [ ] move items to new storage unit
+
+# NLT 30 Sep:
+- [ ] close out gym (NLT 30 Sep turn in two keys)
 - [ ] close out old storage unit
-- [ ] schedule stuff for Goodwill??
-- [ ] finish furniture and other lists
 
 ### Completed
 
