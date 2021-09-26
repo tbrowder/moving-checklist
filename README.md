@@ -3,7 +3,6 @@
 ### To Do
 
 - [ ] clear out old telephone messages
-- [ ] close Bluewater safe deposit box
 - [ ] move items to GBZ safe deposit box
 - [ ] move items to new storage unit
 - [ ] finish furniture and other lists
@@ -12,14 +11,17 @@
 - [ ] close out electricity
 - [ ] close out gas
 - [ ] close out water
-- [ ] close out NWF Daily News
+- [ ] close out Bryan Pest Control
 
 # NLT 30 Sep:
-- [ ] close out gym (NLT 30 Sep turn in two keys)
-- [ ] close out old storage unit
+- [ ] close out gym (notified, NLT 30 Sep turn in two keys)
 
 ### Completed
 
+- [x] close Bluewater safe deposit box
+- [x] close out old storage unit (payment stopped 30 Sep, three days to empty)
+- [x] close out NWF Daily News - last day of delivery, 5 Oct;
+      keeping digital delivery for now at $8/month
 - [x] rent new storage unit
 - [x] move items from attic to garage
 - [x] find doc requirements for changing vehicle and driver registration 
