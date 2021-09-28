@@ -15,9 +15,10 @@
 
 ### Completed
 
-- [x] close out Bryan Pest Control  27 Sep
-- [x] move items to new storage unit  27 Sep
-- [x] move items to GBZ safe deposit box  27 Sep
+- [x] change all A/C filters - 28 Sep
+- [x] close out Bryan Pest Control - 27 Sep
+- [x] move items to new storage unit - 27 Sep
+- [x] move items to GBZ safe deposit box - 27 Sep
 - [x] close Bluewater safe deposit box
 - [x] close out old storage unit (payment stopped 30 Sep, three days to empty)
 - [x] close out NWF Daily News - last day of delivery, 5 Oct;
