@@ -3,21 +3,21 @@
 ### To Do
 
 - [ ] clear out old telephone messages
-- [ ] move items to GBZ safe deposit box
-- [ ] move items to new storage unit
 - [ ] finish furniture and other lists
 
 # on 27 Sep:
 - [ ] close out electricity
 - [ ] close out gas
 - [ ] close out water
-- [ ] close out Bryan Pest Control
 
 # NLT 30 Sep:
 - [ ] close out gym (notified, NLT 30 Sep turn in two keys)
 
 ### Completed
 
+- [x] close out Bryan Pest Control  27 Sep
+- [x] move items to new storage unit  27 Sep
+- [x] move items to GBZ safe deposit box  27 Sep
 - [x] close Bluewater safe deposit box
 - [x] close out old storage unit (payment stopped 30 Sep, three days to empty)
 - [x] close out NWF Daily News - last day of delivery, 5 Oct;
