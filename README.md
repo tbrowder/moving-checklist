@@ -2,8 +2,9 @@
 
 ### To Do
 
-- [ ] clear out old telephone messages
 - [ ] finish furniture and other lists
+- [ ] check new storage lock key, if it works, Ace at BWB has two more
+      keys they are holding for me
 
 # on 27 Sep:
 - [ ] close out electricity
@@ -15,6 +16,7 @@
 
 ### Completed
 
+- [x] clear out old telephone messages - 28 Sep
 - [x] change all A/C filters - 28 Sep
 - [x] close out Bryan Pest Control - 27 Sep
 - [x] move items to new storage unit - 27 Sep
