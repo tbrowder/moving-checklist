@@ -6,7 +6,7 @@
 - [ ] check new storage lock key, if it works, Ace at BWB has two more
       keys they are holding for me
 
-# on 27 Sep:
+# on closing date, 6 Oct 
 - [ ] close out electricity
 - [ ] close out gas
 - [ ] close out water
