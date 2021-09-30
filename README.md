@@ -6,6 +6,11 @@
 - [ ] check new storage lock key, if it works, Ace at BWB has two more
       keys they are holding for me
 
+# NLT 1 Oct
+
+- [ ] pay Fairpointe rent
+
+
 # on closing date, 6 Oct 
 - [ ] close out electricity
 - [ ] close out gas
