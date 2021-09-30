@@ -2,6 +2,7 @@
 
 ### To Do
 
+- [ ] check irrigation system vs pool light
 - [ ] finish furniture and other lists
 - [ ] check new storage lock key, if it works, Ace at BWB has two more
       keys they are holding for me
