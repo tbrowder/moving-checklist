@@ -11,11 +11,9 @@
 - [ ] close out gas
 - [ ] close out water
 
-# NLT 30 Sep:
-- [ ] close out gym (notified, NLT 30 Sep turn in two keys)
-
 ### Completed
 
+- [x] close out gym (notified, NLT 30 Sep turn in two keys) - 29 Sep
 - [x] clear out old telephone messages - 28 Sep
 - [x] change all A/C filters - 28 Sep
 - [x] close out Bryan Pest Control - 27 Sep
