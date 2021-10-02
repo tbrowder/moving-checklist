@@ -10,10 +10,19 @@
 - [ ] check new storage lock key, if it works, Ace at BWB has two more
       keys they are holding for me
 
-# on closing date, 6 Oct 
+## On closing date, 6 Oct 
 - [ ] close out electricity
 - [ ] close out gas
 - [ ] close out water
+
+## After closing (6 Oct)
+
+- [ ] call USAA and cancel homeowner's insurance
+- [ ] WITHIN 10 days: turn in Cox equipment to Niceville UPS store
+- [ ] change vehicle and driver registration to Santa Rosa Cty
+- [ ] change address with credit cards, banks, USAA, etc.
+- [ ] join new gym
+- [ ] join GBUMC
 
 ### Completed
 
@@ -37,15 +46,6 @@
 - [x] close out HVAC One Hour, etc.
 - [x] schedule Cox account closure for 6 Oct 2021
 - [x] schedule change of address with USPS
-
-## After closing (6 Oct)
-
-- [ ] call USAA and cancel homeowner's insurance
-- [ ] WITHIN 10 days: turn in Cox equipment to Niceville UPS store
-- [ ] change vehicle and driver registration to Santa Rosa Cty
-- [ ] change address with credit cards, banks, USAA, etc.
-- [ ] join new gym
-- [ ] join GBUMC
 
 
 ## Notes
