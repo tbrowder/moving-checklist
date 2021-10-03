@@ -3,6 +3,10 @@
 ### To Do
 
 # 4 Oct, Monday, Glass Doctor
+# 4 Oct, call irrigation guy
+# 4 Oct, call Joe's Pools ref salt cell
+# 4 Oct, Ace, storage keys (2), plus three keys for Fairpointe storage
+
 # 5 Oct, Tuesday, Ben, electrcian
 
 - [x] check new storage lock key, if it works, Ace at BWB has two more
