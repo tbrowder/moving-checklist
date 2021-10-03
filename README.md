@@ -2,13 +2,18 @@
 
 ### To Do
 
+# 4 Oct, Monday, Glass Doctor
+# 5 Oct, Tuesday, Ben, electrcian
+
+- [x] check new storage lock key, if it works, Ace at BWB has two more
+      keys they are holding for me - 2 Oct, it works, get from Ace tomorrow
+
 - [ ] check irrigation system vs pool light
       1 Oct: Jason installed light but it's not working (seems to
       cause irrigation timer to give off smoke), called Gulf Coast Electrical
       and they will get Ben here on Tuesday next week
 - [ ] finish furniture and other lists
-- [ ] check new storage lock key, if it works, Ace at BWB has two more
-      keys they are holding for me
+
 
 ## On closing date, 6 Oct 
 - [ ] close out electricity
