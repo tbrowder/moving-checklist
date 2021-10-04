@@ -2,22 +2,26 @@
 
 ### To Do
 
-# 4 Oct, Monday, Glass Doctor
+# 4 Oct, Monday, Glass Doctor, 1200
+- [ ] replace 5 windows
+
 # 4 Oct, call irrigation guy
+- [ ] texted at 0830; Mike came about 0915, checked systems,
+      sent me a worst-case estimate of $500. I sent to Jan
+      with info on situation
+
 # 4 Oct, call Joe's Pools ref salt cell
-# 4 Oct, Ace, storage keys (2), plus three keys for Fairpointe storage
+- [ ] called at 0830, may get it today
 
-# 5 Oct, Tuesday, Ben, electrcian
+# 4 Oct, collect garage door openers, put on mantel
 
-- [x] check new storage lock key, if it works, Ace at BWB has two more
-      keys they are holding for me - 2 Oct, it works, get from Ace tomorrow
-
+# 5 Oct, Tuesday, Ben, electrician
 - [ ] check irrigation system vs pool light
       1 Oct: Jason installed light but it's not working (seems to
       cause irrigation timer to give off smoke), called Gulf Coast Electrical
       and they will get Ben here on Tuesday next week
-- [ ] finish furniture and other lists
 
+- [ ] finish furniture and other lists
 
 ## On closing date, 6 Oct 
 - [ ] close out electricity
@@ -35,6 +39,10 @@
 
 ### Completed
 
+- [x] check new storage lock key, if it works, Ace at BWB has two more
+      keys they are holding for me - 2 Oct, it works, get from Ace tomorrow
+      4 Oct, Ace, got storage keys (2), plus three keys for Fairpointe storage
+- [x] 4 Oct, finished delivering neighbors' keys back to them
 - [x] pay Fairpointe rent - 1 Oct
 - [x] close out gym (notified, NLT 30 Sep turn in two keys) - 29 Sep
 - [x] clear out old telephone messages - 28 Sep
