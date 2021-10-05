@@ -2,18 +2,7 @@
 
 ### To Do
 
-# 4 Oct, Monday, Glass Doctor, 1200
-- [ ] replace 5 windows
-
-# 4 Oct, call irrigation guy
-- [ ] texted at 0830; Mike came about 0915, checked systems,
-      sent me a worst-case estimate of $500. I sent to Jan
-      with info on situation
-
-# 4 Oct, call Joe's Pools ref salt cell
-- [ ] called at 0830, may get it today
-
-# 4 Oct, collect garage door openers, put on mantel
+# 5 Oct, collect garage door openers, put on mantel
 
 # 5 Oct, Tuesday, Ben, electrician
 - [ ] check irrigation system vs pool light
@@ -39,6 +28,13 @@
 
 ### Completed
 
+- [x] 4 Oct, Joe's Pools installed new salt generator, invoice and
+      receipt copies sent to Jan
+- [x] 4 Oct, texted at 0830; Mike came about 0915, checked systems,
+      sent me a worst-case estimate of $500. I sent to Jan
+      with info on situation, I paid Mike in advance for the fix
+- [x] replace 4 windows - 4 Oct, another found bad, ordered and paid for in advance,
+      paid receipt sent to Jan
 - [x] check new storage lock key, if it works, Ace at BWB has two more
       keys they are holding for me - 2 Oct, it works, get from Ace tomorrow
       4 Oct, Ace, got storage keys (2), plus three keys for Fairpointe storage
