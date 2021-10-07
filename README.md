@@ -2,7 +2,8 @@
 
 ### To Do
 
-- [ ] sell or store freezer
+- [ ] Larry will pick up freezer for storage on Sat, 9 Oct
+
 
 ## On closing date, 6 Oct 
 - [ ] close out electricity
