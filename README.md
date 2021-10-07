@@ -2,15 +2,7 @@
 
 ### To Do
 
-# 5 Oct, collect garage door openers, put on mantel
-
-# 5 Oct, Tuesday, Ben, electrician
-- [ ] check irrigation system vs pool light
-      1 Oct: Jason installed light but it's not working (seems to
-      cause irrigation timer to give off smoke), called Gulf Coast Electrical
-      and they will get Ben here on Tuesday next week
-
-- [ ] finish furniture and other lists
+- [ ] sell or store freezer
 
 ## On closing date, 6 Oct 
 - [ ] close out electricity
@@ -20,7 +12,7 @@
 ## After closing (6 Oct)
 
 - [ ] call USAA and cancel homeowner's insurance
-- [ ] WITHIN 10 days: turn in Cox equipment to Niceville UPS store
+- [ ] USAA flood insurance?
 - [ ] change vehicle and driver registration to Santa Rosa Cty
 - [ ] change address with credit cards, banks, USAA, etc.
 - [ ] join new gym
@@ -28,6 +20,13 @@
 
 ### Completed
 
+- [x] done on 5 Oct: WITHIN 10 days: turn in Cox equipment to Niceville UPS store
+- [x] 5 Oct, collect garage door openers, put on mantel
+- [x] check irrigation system vs pool light
+      1 Oct: Jason installed light but it's not working (seems to
+      cause irrigation timer to give off smoke), called Gulf Coast Electrical
+      and they will get Ben here on Tuesday next week; done 5 Oct
+- [x] fix irrigation system and bury pool light cable; complete 6 Oct
 - [x] 4 Oct, Joe's Pools installed new salt generator, invoice and
       receipt copies sent to Jan
 - [x] 4 Oct, texted at 0830; Mike came about 0915, checked systems,
