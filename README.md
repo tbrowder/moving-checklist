@@ -2,25 +2,44 @@
 
 ### To Do
 
-- [ ] Larry will pick up freezer for storage on Sat, 9 Oct
 
-
-## On closing date, 6 Oct 
-- [ ] close out electricity
-- [ ] close out gas
-- [ ] close out water
 
 ## After closing (6 Oct)
 
+- [ ] close out electricity
+- [ ] close out gas
+- [ ] close out water
 - [ ] call USAA and cancel homeowner's insurance
 - [ ] USAA flood insurance?
+
+## Change residence address credit cards, banks, USAA, etc.
+- [ ] Synovus Bank
+- [ ] Fidelity
+- [ ] TD Ameritrade
+- [ ] USAA
+- [ ] AMEX
+- [ ] AAA
+- [ ] Amazon
+- [ ] ACM
+- [ ] NRA
+- [ ] AAFES
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+## 15 Oct
 - [ ] change vehicle and driver registration to Santa Rosa Cty
-- [ ] change address with credit cards, banks, USAA, etc.
+
+## Later
+
 - [ ] join new gym
 - [ ] join GBUMC
 
 ### Completed
 
+- [x] Larry will pick up freezer for storage on Sat, 9 Oct
 - [x] done on 5 Oct: WITHIN 10 days: turn in Cox equipment to Niceville UPS store
 - [x] 5 Oct, collect garage door openers, put on mantel
 - [x] check irrigation system vs pool light
