@@ -2,35 +2,30 @@
 
 ### To Do
 
-
-
 ## After closing (6 Oct)
 
-- [ ] close out electricity
-- [ ] close out gas
-- [ ] close out water
-- [ ] call USAA and cancel homeowner's insurance
-- [ ] USAA flood insurance?
+- [x] call USAA and cancel homeowner's insurance
 
 ## Change residence address credit cards, banks, USAA, etc.
-- [ ] Synovus Bank
-- [ ] Fidelity
-- [ ] TD Ameritrade
-- [ ] USAA
+- [x] Synovus Bank
+- [x] Hancock-Whitney Bank
+- [x] Fidelity
+- [x] TD Ameritrade
+- [x] USAA
 - [ ] AMEX
 - [ ] AAA
-- [ ] Amazon
+- [x] Amazon
 - [ ] ACM
 - [ ] NRA
 - [ ] AAFES
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Sunpass
+- [a] CNA
+- [ ] VGLI
+- [ ] Express Scripts
 - [ ] 
 
 ## 15 Oct
-- [ ] change vehicle and driver registration to Santa Rosa Cty
+- [x] change vehicle and driver registration to Santa Rosa Cty
 
 ## Later
 
@@ -39,6 +34,9 @@
 
 ### Completed
 
+- [x] done 12 Oct: close out electricity
+- [x] done 12 Oct: close out gas
+- [x] done 12 Oct: close out water
 - [x] Larry will pick up freezer for storage on Sat, 9 Oct
 - [x] done on 5 Oct: WITHIN 10 days: turn in Cox equipment to Niceville UPS store
 - [x] 5 Oct, collect garage door openers, put on mantel
